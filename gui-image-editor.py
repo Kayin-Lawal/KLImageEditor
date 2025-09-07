@@ -47,12 +47,6 @@ erase_icon = ttk.PhotoImage(file = 'erase.png').subsample(12, 12)
 save_icon = ttk.PhotoImage(file = 'saved.png').subsample(12, 12)
 
 
-# button for flipping the image file
-
-
-
-
-
 
 # function to open the image file
 def open_image():
